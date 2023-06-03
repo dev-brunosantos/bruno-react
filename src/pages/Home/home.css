@@ -38,7 +38,7 @@
 
 @media screen and (max-width: 650px) {
     .home {
-        height: 100vh;
+        height: 90vh;
         background-color: #0078ed;
         color: #fff;
         padding-top: 150px;
