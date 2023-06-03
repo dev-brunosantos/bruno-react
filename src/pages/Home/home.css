@@ -38,6 +38,7 @@
 
 @media screen and (max-width: 650px) {
     .home {
+        height: 100vh;
         background-color: #0078ed;
         display: flex;
         align-items: center;
@@ -47,7 +48,7 @@
 
     .saudacao {
         width: 90%;
-        height: 550px;
+        height: auto;
         text-align: center;
     }
 
@@ -60,6 +61,7 @@
     .saudacao p {
         font-size: 2rem;
         margin: 20px 0;
+        display: none;
     }
 
     .redes {

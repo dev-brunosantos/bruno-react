@@ -63,7 +63,7 @@
 
 @media screen and (max-width: 650px) {
     .cabecalho {
-
+        height: 80px;
     }
 
     .menu-pages {
