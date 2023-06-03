@@ -10,7 +10,7 @@
 
 @media screen and (max-width: 650px) {
     .paginas {
-        padding-top: 25px;
+        padding-top: 0;
     }
 }
 

@@ -40,15 +40,13 @@
     .home {
         height: 100vh;
         background-color: #0078ed;
-        display: flex;
-        align-items: center;
-        justify-content: center;
         color: #fff;
+        padding-top: 150px;
     }
 
     .saudacao {
         width: 90%;
-        height: auto;
+        height: 400px;
         text-align: center;
     }
 
@@ -78,4 +76,5 @@
     .redes-links {
         color: #fff;
     }
+
 }
